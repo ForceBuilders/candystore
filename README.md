@@ -1,6 +1,6 @@
 # Candy Store Take Home Exercise
 
-Welcome! This take home exercise is designed to simulate the onboarding experience of a Senior Quality Assurance Analyst joining an in progress project. You'll be evaluating a live, in development web application that has not yet received professional QA attention.
+Welcome! This take-home exercise is designed to simulate the onboarding experience of a Senior Quality Assurance Analyst joining an in progress project. You'll be evaluating a live, in development web application that has not yet received professional QA attention.
 
 ---
 
@@ -36,6 +36,7 @@ The application under test is:
      - Usability or accessibility issues
      - Suggestions for improvement
      - Screenshots or recordings, where helpful
+     - Group findings by category or severity if applicable
 
 ---
 
@@ -44,7 +45,10 @@ The application under test is:
 - A test plan or strategy document (Markdown, PDF, or linked Google Doc is fine)
 - At least one sample test case document or test suite outline
 - An outline or proof-of-concept of automated test coverage (e.g. a GitHub repo with sample test scripts, or a documented plan with sample code or pseudocode)
-- Any other documentation you would produce at the start of a project (e.g., bug templates, test data plans, reporting approach, etc.)
+- Additional documentation, such as:
+  - Bug reporting templates
+  - Test data strategy
+  - Communication/reporting workflows (e.g., status reports, test summaries)
 - A short summary of your experience during the smoke test (things that stood out, areas of concern, etc.)
 
 ## Submission
@@ -58,3 +62,5 @@ Send all deliverables in a ZIP file or shared folder (e.g., Google Drive, Dropbo
 - You do **not** need to fully automate tests, but please demonstrate how you would approach automation as part of your strategy.
 - You are welcome to use any tools or frameworks you prefer (e.g. Playwright, Cypress, Postman, TestRail, etc.)
 - Focus on clarity and practicality (pretend you're handing this off to your future self or onboarding a new QA hire)
+
+**Estimated Time to Complete:** 2–4 hours
