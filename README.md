@@ -42,7 +42,7 @@ The application under test is:
 
 ## Deliverables
 
-- A test plan or strategy document (Markdown, PDF, or linked Google Doc is fine)
+- A test plan or strategy document (Markdown, PDF, Word, or linked Google Doc is fine)
 - At least one sample test case document or test suite outline
 - An outline or proof-of-concept of automated test coverage (e.g. a GitHub repo with sample test scripts, or a documented plan with sample code or pseudocode)
 - Additional documentation, such as:
